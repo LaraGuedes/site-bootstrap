@@ -1,0 +1,20 @@
+.conteudo{
+    background-color: #DCE7E7;
+    /* height: 100vh; */
+    padding: 10px;
+}
+
+nav{
+    background-color: #afc9c8;
+}
+
+.card-itens{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 18px ;
+}
+
+footer{
+    background-color: #afc9c8;
+}
